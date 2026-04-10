@@ -7,6 +7,3 @@ segments_wav/
 labeled_segments/
 ICBHI_final_database/
 
-algorithms/*.csv
-algorithms/*.xlsx
-algorithms/*.png
